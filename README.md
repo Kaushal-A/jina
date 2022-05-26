@@ -373,7 +373,6 @@ Jina is backed by [Jina AI](https://jina.ai) and licensed under [Apache-2.0](./L
 ecosystem in open source.
 
 <!-- end support-pitch -->
-
 ## Contribute
 
 We welcome all kinds of contributions from the open-source community, individuals and partners. We owe our success to
