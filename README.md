@@ -371,7 +371,6 @@ Now we have the service up running in Kubernetes!
 Jina is backed by [Jina AI](https://jina.ai) and licensed under [Apache-2.0](./LICENSE).
 [We are actively hiring](https://jobs.jina.ai) AI engineers, solution engineers to build the next neural search
 ecosystem in open source.
-
 <!-- end support-pitch -->
 
 ## Contribute
